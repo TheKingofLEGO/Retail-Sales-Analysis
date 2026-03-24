@@ -219,11 +219,6 @@ Yearly and monthly sales and profit bar/line charts, plus a profit margin by yea
 <p align="center">
   <img src="Screen Shots/1. Trend Analysis.png" width="800"/>
 </p>
-Key Findings:
-    • Total sales grew from $484K in 2014 to $733K in 2017, with profit rising from $50K to $94K — consistent growth across all four years. 
-    • Profit margin peaked at 13.43% in 2016 before dipping to 12.80% in 2017. Revenue is growing, but the margin decline signals rising costs or discounting worth investigating. 
-    • Monthly sales show two clear peaks: March ($205K) and a strong fall/holiday surge from September through November, peaking at $352K in November. 
-    • January and February are the lowest months at $95K and $60K respectively. These slow months warrant a deeper investigation. 
 **Page 2 — Region Analysis**
 Region and state performance table, profit margin by region pie chart, and a geographic map of sales by state.
 <p align="center">
