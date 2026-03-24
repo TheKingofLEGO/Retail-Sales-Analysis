@@ -259,4 +259,3 @@ Category and subcategory breakdowns, segment comparison, and a top products tabl
 ## Author
 
 **William Fowler**
-Charlotte, NC
