@@ -216,19 +216,13 @@ The dashboard is three pages with interactive slicers for Year, Category, and Re
 
 **Page 1 — Trend Analysis**
 Yearly and monthly sales and profit bar/line charts, plus a profit margin by year visual.
-<p align="center">
-  <img src="Screen Shots/1. Trend Analysis.png" width="800"/>
-</p>
+
 **Page 2 — Region Analysis**
 Region and state performance table, profit margin by region pie chart, and a geographic map of sales by state.
-<p align="center">
-  <img src="Screen Shots/2. Region Analysis.png" width="800"/>
-</p>
+
 **Page 3 — Product Performance Analysis**
 Category and subcategory breakdowns, segment comparison, and a top products table ranked by profit margin.
-<p align="center">
-  <img src="Screen Shots/3. Product Performance Analysis.png" width="800"/>
-</p>
+
 ---
 
 ## Key Findings Summary
